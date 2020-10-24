@@ -8,3 +8,6 @@ Use transfer learning to retrain a DenseNet model for X-ray image classification
 Learn a technique to handle class imbalance
 Measure diagnostic performance by computing the AUC (Area Under the Curve) for the ROC (Receiver Operating Characteristic) curve
 Visualize model activity using GradCAMs
+
+We will then take the results of the model and evaluate it's performance on each of the classes.
+
